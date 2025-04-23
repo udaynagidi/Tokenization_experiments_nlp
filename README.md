@@ -1,4 +1,4 @@
-# ✂️ Tokenization Experiments – NLP Preprocessing in Python
+# Tokenization Experiments – NLP Preprocessing in Python
 
 ## 📌 Project Overview
 This Jupyter Notebook focuses on the process of *tokenization* — the foundation of most Natural Language Processing workflows.  
