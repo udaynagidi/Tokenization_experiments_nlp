@@ -37,4 +37,4 @@ The dataset is either hardcoded within the notebook or simulated to demonstrate 
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://colab.research.google.com/drive/1wZG7Ht_nNenWlp7w5KiQJnchJOzlHR98?usp=sharing
+   https://colab.research.google.com/drive/1wZG7Ht_nNenWlp7w5KiQJnchJOzlHR98?usp=sharing
